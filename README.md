@@ -1,1 +1,3 @@
-# badmintonTechnical-support
+这里是专为羽毛球爱好者提供的平台，这里有相关的运动商品器材。每日都有更新、推荐。
+
+如果您有任何问题，请联系技术支持邮箱: tisian590@icloud.com。谢谢你的支持。
